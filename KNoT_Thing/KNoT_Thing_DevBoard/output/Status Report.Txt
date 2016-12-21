@@ -1,0 +1,10 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [KNoT_Thing_DevBoard.PrjPCB]
+   Generated File[Bill of Materials-KNoT_Thing_DevBoard.csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 16:19:51 On 21/12/2016

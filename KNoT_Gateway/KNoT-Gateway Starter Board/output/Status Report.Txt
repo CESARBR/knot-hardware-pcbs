@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [KNoT-Gateway Starter Board.PcbDoc]
+   Generated File[KNoT-Gateway Starter Board.TXT]
+   Generated File[KNoT-Gateway Starter Board.LDP]
+   Generated File[KNoT-Gateway Starter Board.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 13:20:51 On 21/12/2016

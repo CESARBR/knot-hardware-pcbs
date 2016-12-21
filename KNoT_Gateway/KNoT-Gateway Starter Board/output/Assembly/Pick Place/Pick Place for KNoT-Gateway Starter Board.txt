@@ -1,0 +1,40 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+           Prototype_Holes_1X8       -100mil      -1050mil       -100mil       -700mil       -100mil       -700mil  T        270.00 Comment        
+           Prototype_Holes_1X8       -200mil      -1050mil       -200mil       -700mil       -200mil       -700mil  T        270.00 Comment        
+           Prototype_Holes_1X8       -300mil      -1050mil       -300mil       -700mil       -300mil       -700mil  T        270.00 Comment        
+           Prototype_Holes_1X8       -400mil      -1050mil       -400mil       -700mil       -400mil       -700mil  T        270.00 Comment        
+           Prototype_Holes_1X8       -500mil      -1050mil       -500mil       -700mil       -500mil       -700mil  T        270.00 Comment        
+           Prototype_Holes_1X8       -600mil      -1050mil       -600mil       -700mil       -600mil       -700mil  T        270.00 Comment        
+           Prototype_Holes_1X8       -700mil      -1050mil       -700mil       -700mil       -700mil       -700mil  T        270.00 Comment        
+           Prototype_Holes_1X8       -800mil      -1050mil       -800mil       -700mil       -800mil       -700mil  T        270.00 Comment        
+           Prototype_Holes_1X8       -900mil      -1050mil       -900mil       -700mil       -900mil       -700mil  T        270.00 Comment        
+           Prototype_Holes_1X8      -1000mil      -1050mil      -1000mil       -700mil      -1000mil       -700mil  T        270.00 Comment        
+           Prototype_Holes_1X8      -1100mil      -1050mil      -1100mil       -700mil      -1100mil       -700mil  T        270.00 Comment        
+           Prototype_Holes_1X8      -1200mil      -1050mil      -1200mil       -700mil      -1200mil       -700mil  T        270.00 Comment        
+           Prototype_Holes_1X8      -1300mil      -1050mil      -1300mil       -700mil      -1300mil       -700mil  T        270.00 Comment        
+U1         SOT23-5              -1630mil  -2349.998mil      -1630mil      -2350mil  -1592.598mil  -2298.815mil  T        180.00 MIC5205-3.3Y   
+C1         CAPC1608L            -1660mil      -2530mil      -1660mil      -2530mil      -1660mil  -2502.441mil  T        270.00 Cap0603        
+C2         CAPC1608L            -1600mil      -2530mil      -1600mil      -2530mil      -1600mil  -2502.441mil  T        270.00 Cap0603        
+J2         FEMALE_HEADER_2X20  -1928.938mil  -1141.732mil  -1928.938mil  -1141.732mil  -1878.938mil  -2091.732mil  T         90.00 Extended Male/Female Header
+J3         nRF24L01+PA+LNA      -1100mil      -2000mil      -1100mil      -2000mil       -950mil      -1950mil  T          0.00 nRF24L01+      
+J7         NFC_ITEAD_PN532       -800mil       -250mil          0mil          0mil       -450mil       -250mil  T        360.00 1x8 Extended Female Header
+J1         Prototype_Holes_1X8      -1400mil      -1050mil      -1400mil       -700mil      -1400mil       -700mil  T        270.00 Prototype Power Header
+J4         Prototype_Holes_1X8      -1500mil      -1050mil      -1500mil       -700mil      -1500mil       -700mil  T        270.00 Prototype Power Header
+J5         Prototype_Holes_1X8      -1600mil      -1050mil      -1600mil       -700mil      -1600mil       -700mil  T        270.00 Prototype Power Header
+J6         Prototype_Holes_1X8      -1250mil      -1500mil      -1600mil      -1500mil      -1600mil      -1500mil  T        360.00 Prototype Power Header
+J8         Prototype_Holes_1X8       -450mil      -1500mil       -800mil      -1500mil       -800mil      -1500mil  T        360.00 Prototype Power Header
+LED1       LED_PTH               -650mil      -3200mil       -700mil      -3200mil       -700mil      -3200mil  T          0.00 LED PTH        
+LED2       LED_PTH               -350mil      -3200mil       -400mil      -3200mil       -400mil      -3200mil  T          0.00 LED PTH        
+LED3       LED_PTH                -50mil      -3200mil       -100mil      -3200mil       -100mil      -3200mil  T          0.00 LED PTH        
+R1         CAPC1608L             -700mil      -2950mil       -700mil      -2950mil       -700mil  -2977.559mil  T         90.00 RES_0402       
+R2         CAPC1608L             -400mil      -2950mil       -400mil      -2950mil       -400mil  -2977.559mil  T         90.00 RES_0402       
+R3         CAPC1608L             -200mil      -2950mil       -200mil      -2950mil       -200mil  -2977.559mil  T         90.00 RES_0402       
+S1         Push-Button_PTH      -1900mil      -2900mil      -1900mil      -2800mil      -1900mil      -2800mil  T        270.00 200mils Push Button PTH
+S2         Push-Button_PTH      -1900mil      -3300mil      -1900mil      -3200mil      -1900mil      -3200mil  T        270.00 200mils Push Button PTH
+C3         CAPC1608L            -1820mil      -2620mil      -1820mil      -2620mil  -1847.559mil      -2620mil  T          0.00 Cap0603        
+C4         CAPC1608L            -1930mil      -2620mil      -1930mil      -2620mil  -1957.559mil      -2620mil  T          0.00 Cap0603        
+C5         CAPC1608L             -840mil      -2020mil       -840mil      -2020mil       -840mil  -2047.559mil  T         90.00 Cap0603        
+R4         CAPC1608L            -1820mil      -2560mil      -1820mil      -2560mil  -1792.441mil      -2560mil  T        180.00 RES_0402       
+R5         CAPC1608L            -1930mil      -2560mil      -1930mil      -2560mil  -1902.441mil      -2560mil  T        180.00 RES_0402       
+

@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 13:28:02 On 21/12/2016
+
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of PCB Document [KNoT-Gateway Starter Board.PcbDoc]
+   Generated File[Pick Place for KNoT-Gateway Starter Board.txt]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 13:28:03 On 21/12/2016

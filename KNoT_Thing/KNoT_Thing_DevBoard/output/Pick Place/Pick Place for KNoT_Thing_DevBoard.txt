@@ -1,0 +1,49 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+C22        CAPC1005L             31.75mm      16.002mm       31.75mm      16.002mm       31.75mm      16.502mm  T        270.00 Cap_0402       
+C15        CAPC1005L            30.099mm     12.3952mm      30.099mm     12.3952mm      29.599mm     12.3952mm  T        360.00 Cap_0402       
+U4         SOT23-5              24.708mm      19.208mm      24.708mm      19.208mm      23.758mm     17.9079mm  T          0.00 MIC5205-3.3YM5 
+R4         CAPC1005L            10.608mm      20.708mm      10.608mm      20.708mm      10.108mm      20.708mm  T        360.00 RES_0402       
+LED        0603_LED               7.62mm       22.06mm        7.62mm       22.06mm        8.47mm       22.06mm  T        180.00 LED 0603       
+F1         0402L                25.908mm      14.008mm      25.908mm      14.008mm      26.458mm      14.008mm  T        180.00 0402L050SLKR   
+L4         0603-cap               23.6mm        15.7mm        23.6mm        15.7mm       22.75mm        15.7mm  T        360.00 Ferrite        
+C1         CAPC1005L              11.4mm        34.8mm        11.4mm        34.8mm        11.4mm        35.3mm  T        270.00 Cap_0402       
+C2         CAPC1005L            20.408mm      29.308mm      20.408mm      29.308mm      20.408mm      29.808mm  T        270.00 Cap_0402       
+C3         CAPC1005L               6.3mm        31.7mm         6.3mm        31.7mm         5.8mm        31.7mm  T          0.00 Cap_0402       
+C4         CAPC1005L             4.008mm      25.408mm       4.008mm      25.408mm       4.008mm      24.908mm  T         90.00 Cap_0402       
+C5         CAPC1005L            20.408mm      25.708mm      20.408mm      25.708mm      20.408mm      25.208mm  T         90.00 Cap_0402       
+C6         CAPC1005L              19.2mm        16.6mm        19.2mm        16.6mm        19.2mm        16.1mm  T         90.00 Cap_0402       
+C7         CAPC1005L              18.1mm        16.6mm        18.1mm        16.6mm        18.1mm        16.1mm  T         90.00 Cap_0402       
+C8         CAPC1005L              15.1mm        10.3mm        15.1mm        10.3mm        15.1mm         9.8mm  T         90.00 Cap_0402       
+C9         CAPC1005L             8.525mm       12.45mm       8.525mm       12.45mm       8.025mm       12.45mm  T        360.00 Cap_0402       
+C10        CAPC1005L              16.7mm          10mm        16.7mm          10mm        17.2mm          10mm  T        180.00 Cap_0402       
+C11        CAPC1005L              18.1mm        18.8mm        18.1mm        18.8mm        18.1mm        19.3mm  T        270.00 Cap_0402       
+C12        CAPC1005L               7.3mm        19.6mm         7.3mm        19.6mm         7.8mm        19.6mm  T        180.00 Cap_0402       
+C13        CAPC1005L                13mm        11.4mm          13mm        11.4mm          13mm        10.9mm  T         90.00 Cap_0402       
+C14        CAPC1005L                12mm        11.4mm          12mm        11.4mm          12mm        10.9mm  T         90.00 Cap_0402       
+J2         ROS-32K249-400L5_V          15mm         5.3mm          15mm         5.3mm          15mm         5.3mm  T        180.00 32K249-400L5   
+L1         CAPC1005L              15.1mm        12.4mm        15.1mm        12.4mm        15.1mm        11.9mm  T         90.00 Inductor0402   
+L2         CAPC1005L              14.5mm          14mm        14.5mm          14mm          15mm          14mm  T        180.00 Inductor0402   
+L3         CAPC1005L              13.5mm          13mm        13.5mm          13mm          14mm          13mm  T        180.00 Inductor0402   
+R1         CAPC1005L             8.008mm      33.008mm       8.008mm      33.008mm       8.008mm      33.508mm  T        270.00 RES_0402       
+R2         CAPC1005L              18.1mm        14.4mm        18.1mm        14.4mm        18.1mm        13.9mm  T        270.00 RES_0402       
+R3         CAPC1005L            11.408mm      16.508mm      11.408mm      16.508mm      11.408mm      16.008mm  T         90.00 RES_0402       
+U1         32A_L                14.408mm      28.508mm      14.408mm      28.508mm      10.208mm      31.308mm  T          0.00 ATmega328-AU   
+U2         QFN20                14.808mm      17.308mm      14.808mm      17.308mm      15.808mm      19.258mm  T        270.00 nRF24L01+ QFN20
+Y1         CX5032GB              6.408mm      27.808mm       6.408mm      27.808mm       6.408mm      25.758mm  T         90.00 8 MHz          
+Y2         SPK-16M-5032          8.708mm      16.008mm       8.708mm      16.008mm       9.858mm      14.158mm  T         90.00 16 MHz         
+C16        CAPC1005L            22.808mm      13.708mm      22.808mm      13.708mm      22.808mm      13.208mm  T         90.00 Cap_0402       
+C17        CAPC1005L            32.208mm      25.908mm      32.208mm      25.908mm      32.208mm      25.408mm  T         90.00 Cap_0402       
+C18        CAPC1608L                21mm        20.1mm          21mm        20.1mm          21mm        20.8mm  T        270.00 Cap0603        
+C19        CAPC1005L            27.108mm      17.608mm      27.108mm      17.608mm      27.108mm      18.108mm  T        270.00 Cap_0402       
+C20        CAPC1608L            26.808mm      15.708mm      26.808mm      15.708mm      26.108mm      15.708mm  T        360.00 Cap0603        
+C21        CAPC1005L              27.1mm          20mm        27.1mm          20mm        27.1mm        20.5mm  T        270.00 Cap_0402       
+USB        Micro_USB_b          35.249mm      12.393mm      36.373mm      12.393mm      33.924mm      11.093mm  T         90.00 ZX62R-B-5P     
+U3         SSOP-28_N            26.708mm      28.308mm      26.708mm      28.308mm      23.258mm      32.533mm  T        360.00 FT232RL-Reel   
+J5         HDR2X3                22.86mm        5.08mm       21.59mm        7.62mm       21.59mm        7.62mm  T        270.00 Header 3X2     
+J6         HDR1X8                35.56mm       29.21mm       35.56mm       20.32mm       35.56mm       20.32mm  T         90.00 Header 8       
+RESET      SWITCH_TS-1181           11mm        38.1mm          11mm        38.1mm         7.1mm        38.1mm  T        360.00 SW-SPST        
+J7         HDR1X6                 2.54mm       16.51mm        2.54mm       22.86mm        2.54mm       22.86mm  T        270.00 Header 6       
+POWER      HDR1X2                29.21mm        2.54mm       27.94mm        2.54mm       27.94mm        2.54mm  T        360.00 Header 2H      
+I2C        HDR1X6                24.13mm        38.1mm       30.48mm        38.1mm       30.48mm        38.1mm  T        180.00 Header 6       
+

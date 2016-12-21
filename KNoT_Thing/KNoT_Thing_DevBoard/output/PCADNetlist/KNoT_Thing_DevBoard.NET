@@ -1,0 +1,390 @@
+{COMPONENT PROTEL.PCB
+  {ENVIRONMENT PROTEL.SCH}
+  {DETAIL
+    {SUBCOMP
+      {I CAPC1005L.PRT C1
+        {CN
+        1 ?
+        2 ?
+        }
+      }
+      {I CAPC1005L.PRT C2
+        {CN
+        1 ?
+        2 ?
+        }
+      }
+      {I CAPC1005L.PRT C3
+        {CN
+        1 ?
+        2 ?
+        }
+      }
+      {I CAPC1005L.PRT C4
+        {CN
+        1 ?
+        2 ?
+        }
+      }
+      {I CAPC1005L.PRT C5
+        {CN
+        1 ?
+        2 ?
+        }
+      }
+      {I CAPC1005L.PRT C6
+        {CN
+        1 ?
+        2 ?
+        }
+      }
+      {I CAPC1005L.PRT C7
+        {CN
+        1 ?
+        2 ?
+        }
+      }
+      {I CAPC1005L.PRT C8
+        {CN
+        1 ?
+        2 ?
+        }
+      }
+      {I CAPC1005L.PRT C9
+        {CN
+        1 ?
+        2 ?
+        }
+      }
+      {I CAPC1005L.PRT C10
+        {CN
+        1 ?
+        2 ?
+        }
+      }
+      {I CAPC1005L.PRT C11
+        {CN
+        1 ?
+        2 ?
+        }
+      }
+      {I CAPC1005L.PRT C12
+        {CN
+        1 ?
+        2 ?
+        }
+      }
+      {I CAPC1005L.PRT C13
+        {CN
+        1 ?
+        2 ?
+        }
+      }
+      {I CAPC1005L.PRT C14
+        {CN
+        1 ?
+        2 ?
+        }
+      }
+      {I CAPC1005L.PRT C15
+        {CN
+        1 ?
+        2 ?
+        }
+      }
+      {I CAPC1005L.PRT C16
+        {CN
+        1 ?
+        2 ?
+        }
+      }
+      {I CAPC1005L.PRT C17
+        {CN
+        1 ?
+        2 ?
+        }
+      }
+      {I CAPC1608L.PRT C18
+        {CN
+        1 ?
+        2 ?
+        }
+      }
+      {I CAPC1005L.PRT C19
+        {CN
+        1 ?
+        2 ?
+        }
+      }
+      {I CAPC1608L.PRT C20
+        {CN
+        1 ?
+        2 ?
+        }
+      }
+      {I CAPC1005L.PRT C21
+        {CN
+        1 ?
+        2 ?
+        }
+      }
+      {I CAPC1005L.PRT C22
+        {CN
+        1 ?
+        2 ?
+        }
+      }
+      {I 0402L.PRT F1
+        {CN
+        1 ?
+        2 ?
+        }
+      }
+      {I HDR1X6.PRT I2C
+        {CN
+        1 ?
+        2 ?
+        3 ?
+        4 ?
+        5 ?
+        6 ?
+        }
+      }
+      {I ROS-32K249-400L5_V.PRT J2
+        {CN
+        1 ?
+       MH ?
+        }
+      }
+      {I HDR2X3.PRT J5
+        {CN
+        1 ?
+        2 ?
+        3 ?
+        4 ?
+        5 ?
+        6 ?
+        }
+      }
+      {I HDR1X8.PRT J6
+        {CN
+        1 ?
+        2 ?
+        3 ?
+        4 ?
+        5 ?
+        6 ?
+        7 ?
+        8 ?
+        }
+      }
+      {I HDR1X6.PRT J7
+        {CN
+        1 ?
+        2 ?
+        3 ?
+        4 ?
+        5 ?
+        6 ?
+        }
+      }
+      {I CAPC1005L.PRT L1
+        {CN
+        1 ?
+        2 ?
+        }
+      }
+      {I CAPC1005L.PRT L2
+        {CN
+        1 ?
+        2 ?
+        }
+      }
+      {I CAPC1005L.PRT L3
+        {CN
+        1 ?
+        2 ?
+        }
+      }
+      {I 0603-cap.PRT L4
+        {CN
+        1 ?
+        2 ?
+        }
+      }
+      {I 0603_LED.PRT LED
+        {CN
+        1 ?
+        2 ?
+        }
+      }
+      {I HDR1X2.PRT POWER
+        {CN
+        1 ?
+        2 ?
+        }
+      }
+      {I CAPC1005L.PRT R1
+        {CN
+        1 ?
+        2 ?
+        }
+      }
+      {I CAPC1005L.PRT R2
+        {CN
+        1 ?
+        2 ?
+        }
+      }
+      {I CAPC1005L.PRT R3
+        {CN
+        1 ?
+        2 ?
+        }
+      }
+      {I CAPC1005L.PRT R4
+        {CN
+        1 ?
+        2 ?
+        }
+      }
+      {I SWITCH TS-1181.PRT RESET
+        {CN
+        1 ?
+        2 ?
+        }
+      }
+      {I 32A_L.PRT U1
+        {CN
+        1 ?
+        2 ?
+        3 ?
+        4 ?
+        5 ?
+        6 ?
+        7 ?
+        8 ?
+        9 ?
+       10 ?
+       11 ?
+       12 ?
+       13 ?
+       14 ?
+       15 ?
+       16 ?
+       17 ?
+       18 ?
+       19 ?
+       20 ?
+       21 ?
+       22 ?
+       23 ?
+       24 ?
+       25 ?
+       26 ?
+       27 ?
+       28 ?
+       29 ?
+       30 ?
+       31 ?
+       32 ?
+        }
+      }
+      {I QFN20.PRT U2
+        {CN
+        1 ?
+        2 ?
+        3 ?
+        4 ?
+        5 ?
+        6 ?
+        7 ?
+        8 ?
+        9 ?
+       10 ?
+       11 ?
+       12 ?
+       13 ?
+       14 ?
+       15 ?
+       16 ?
+       17 ?
+       18 ?
+       19 ?
+       20 ?
+       21 ?
+        }
+      }
+      {I SSOP-28_N.PRT U3
+        {CN
+        1 ?
+        2 ?
+        3 ?
+        4 ?
+        5 ?
+        6 ?
+        7 ?
+        8 ?
+        9 ?
+       10 ?
+       11 ?
+       12 ?
+       13 ?
+       14 ?
+       15 ?
+       16 ?
+       17 ?
+       18 ?
+       19 ?
+       20 ?
+       21 ?
+       22 ?
+       23 ?
+       24 ?
+       25 ?
+       26 ?
+       27 ?
+       28 ?
+        }
+      }
+      {I SOT23-5.PRT U4
+        {CN
+        1 ?
+        2 ?
+        3 ?
+        4 ?
+        5 ?
+        }
+      }
+      {I Micro USB b.PRT USB
+        {CN
+        1 ?
+        2 ?
+        3 ?
+        4 ?
+        5 ?
+        6 ?
+        7 ?
+        8 ?
+        9 ?
+       10 ?
+       11 ?
+        }
+      }
+      {I CX5032GB.PRT Y1
+        {CN
+        1 ?
+        2 ?
+        }
+      }
+      {I SPK-16M-5032.PRT Y2
+        {CN
+        1 ?
+        2 ?
+        3 ?
+        4 ?
+        }
+      }
+    }
+  }
+}
