@@ -212,7 +212,7 @@
         2 ?
         }
       }
-      {I 0603_LED.PRT LED
+      {I 0603_LED.PRT LED1
         {CN
         1 ?
         2 ?
@@ -248,7 +248,7 @@
         2 ?
         }
       }
-      {I SWITCH TS-1181.PRT RESET
+      {I SWITCH TS-1181.PRT S1
         {CN
         1 ?
         2 ?

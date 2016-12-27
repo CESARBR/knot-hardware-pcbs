@@ -1,5 +1,5 @@
 ---------------------------------------------------------------------------
-NCDrill File Report For: KNoT_Thing_DevBoard.PcbDoc   21/12/2016  16:19:40
+NCDrill File Report For: KNoT_Thing_DevBoard.PcbDoc   23/12/2016  11:06:09
 ---------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -8,12 +8,12 @@ ASCII RoundHoles File : KNoT_Thing_DevBoard.TXT
 Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
 ---------------------------------------------------------------------------
 T1        0.3mm (11.811mil)        Round          2                1.00 mm (0.04 Inch)
-T2        0.5mm (19.685mil)        Round          30               142.73 mm (5.62 Inch)
-T3        0.7112mm (28mil)         Round          2                10.40 mm (0.41 Inch)
+T2        0.5mm (19.685mil)        Round          31               149.83 mm (5.90 Inch)
+T3        0.7112mm (28mil)         Round          2                9.16 mm (0.36 Inch)
 T4        0.9mm (35.433mil)        Round          28               110.25 mm (4.34 Inch)
 T5        1.65mm (64.961mil)       Round          5                18.83 mm (0.74 Inch)
 T6        3mm (118.11mil)          Round          3                78.48 mm (3.09 Inch)
 ---------------------------------------------------------------------------
-Totals                                            70               361.69 mm (14.24 Inch)
+Totals                                            71               367.55 mm (14.47 Inch)
 
 Total Processing Time (hh:mm:ss) : 00:00:00

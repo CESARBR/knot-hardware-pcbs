@@ -1,4 +1,4 @@
-DRC Rules Export File for PCB: \\psf\Google Drive\Extras\IoT Research\hardware\Altium\KNoT-HW\KNoT_Thing\KNoT_Thing_DevBoard\cads\KNoT_Thing_DevBoard.PcbDoc
+DRC Rules Export File for PCB: C:\Users\dsd\Work\KNoT_Thing\KNoT_Thing_DevBoard\cads\KNoT_Thing_DevBoard.PcbDoc
 RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
 RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87
 RuleKind=Width|RuleName=Width|Scope=Board|Minimum=7.87
