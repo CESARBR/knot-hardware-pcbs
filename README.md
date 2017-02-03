@@ -1,16 +1,18 @@
 KNoT Hardware PCBs
 
-Copyright (c) 2016, CESAR.
-All rights reserved.
+ - Overview
 
-This hardware project may be modified and distributed under the terms
-of the BSD license. See the COPYING file for details.
+These are the open-source hardware PCBs of the KNoT Project:
 
-These are the open-source hardware PCBs of the KNoT Project.
+KNoT Gateway Starter Board consists on a shield for Raspberry Pi with headers for easily coupling a nRF24L01+ module for wireless communication with the KNoT Things. It also includes push buttons and status leds.
+
+KNoT Thing Development Board consistes on an Arduino based PCB with the ATMega328 microcontroler, nRF24L01+ circuit, headers for SPI and I²C communication, push button and led.
+
+ - Development tools
 
 The ECAD tool used is Altium Designer versions 14.2.3 e 14.2.4.
 
-Each PCB projec includes:
+Each PCB project includes:
  - Components Library
  - Schematics
  - Board Layout
@@ -23,4 +25,4 @@ And the generated output files are:
  - Assembly Drawing
  - Composite Drawing
  - Pick and Place
- - Schematics(PDF)
+ - Schematics (PDF)
