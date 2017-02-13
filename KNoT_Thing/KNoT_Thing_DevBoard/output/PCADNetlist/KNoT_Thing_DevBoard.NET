@@ -86,12 +86,6 @@
         2 ?
         }
       }
-      {I CAPC1005L.PRT C15
-        {CN
-        1 ?
-        2 ?
-        }
-      }
       {I CAPC1005L.PRT C16
         {CN
         1 ?
@@ -123,12 +117,6 @@
         }
       }
       {I CAPC1005L.PRT C21
-        {CN
-        1 ?
-        2 ?
-        }
-      }
-      {I CAPC1005L.PRT C22
         {CN
         1 ?
         2 ?
@@ -218,6 +206,12 @@
         2 ?
         }
       }
+      {I 0603_LED.PRT LED2
+        {CN
+        1 ?
+        2 ?
+        }
+      }
       {I HDR1X2.PRT POWER
         {CN
         1 ?
@@ -243,6 +237,18 @@
         }
       }
       {I CAPC1005L.PRT R4
+        {CN
+        1 ?
+        2 ?
+        }
+      }
+      {I CAPC1005L.PRT R5
+        {CN
+        1 ?
+        2 ?
+        }
+      }
+      {I CAPC1005L.PRT R6
         {CN
         1 ?
         2 ?

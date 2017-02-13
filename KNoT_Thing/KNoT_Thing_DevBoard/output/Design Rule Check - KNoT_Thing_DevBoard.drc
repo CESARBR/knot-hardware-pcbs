@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\dsd\Work\GitHub\knot-hardware-pcbs\KNoT_Thing\KNoT_Thing_DevBoard\cads\KNoT_Thing_DevBoard.PcbDoc
-Date     : 10/02/2017
-Time     : 11:07:47
+Date     : 13/02/2017
+Time     : 12:13:50
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
@@ -56,4 +56,4 @@ Rule Violations :0
 
 
 Violations Detected : 0
-Time Elapsed        : 00:10:58
+Time Elapsed        : 00:11:35
