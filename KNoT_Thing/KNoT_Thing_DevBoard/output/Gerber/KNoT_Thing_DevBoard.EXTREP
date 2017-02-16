@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: KNoT_Thing_DevBoard.GBR   15/02/2017  09:34:29
+Gerber File Extension Report For: KNoT_Thing_DevBoard.GBR   16/02/2017  11:18:49
 ------------------------------------------------------------------------------------------
 
 
@@ -12,6 +12,8 @@ Layer Extension     Layer Description
 .GTP                Top Paste                               
 .GTS                Top Solder                              
 .GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
 .GM1                Mechanical 1                            
 .GKO                Keep-Out Layer                          
 ------------------------------------------------------------------------------------------

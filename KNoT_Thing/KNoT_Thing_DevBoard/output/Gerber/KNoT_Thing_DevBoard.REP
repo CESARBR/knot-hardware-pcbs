@@ -61,7 +61,7 @@ Generating : Bottom Layer
 
 Used DCodes :
     D17
-    D31
+    D18
     D32
     D33
     D34
@@ -184,7 +184,7 @@ Generating : Bottom Solder
 Used DCodes :
     D39
     D57
-    D71
+    D58
     D72
     D73
     D74
@@ -192,6 +192,34 @@ Used DCodes :
     D76
     D77
     D78
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : KNoT_Thing_DevBoard.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D39
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : KNoT_Thing_DevBoard.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D39
+    D48
+    D79
 *************************************************************
 
 *************************************************************
@@ -204,8 +232,8 @@ Generating : Mechanical 1
 Used DCodes :
     D34
     D39
-    D48
-    D79
+    D49
+    D80
 *************************************************************
 
 *************************************************************

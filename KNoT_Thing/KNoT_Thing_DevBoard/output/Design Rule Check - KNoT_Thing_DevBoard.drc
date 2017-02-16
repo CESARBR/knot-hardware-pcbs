@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\dsd\Work\GitHub\knot-hardware-pcbs\KNoT_Thing\KNoT_Thing_DevBoard\cads\KNoT_Thing_DevBoard.PcbDoc
-Date     : 15/02/2017
-Time     : 09:51:54
+Date     : 16/02/2017
+Time     : 10:35:14
 
 Processing Rule : Minimum Annular Ring (Minimum=0.2mm) (All)
 Rule Violations :0
@@ -56,4 +56,4 @@ Rule Violations :0
 
 
 Violations Detected : 0
-Time Elapsed        : 00:12:13
+Time Elapsed        : 00:31:50

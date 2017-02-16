@@ -1,5 +1,6 @@
 Comment,Description,Designator,Footprint,LibRef,Quantity,Supplier 1,Supplier Part Number 1
 
+"Header 7","Header, 7-Pin","ANALOG IN, DIGITAL","HDR1X7","Header 7","2","",""
 "Cap_0402","Chip Capacitor 0402 (1005 metric)","C1, C2, C5, C17, C19","CAPC1005L","Capacitor_0402","5","Digi-Key","311-1731-1-ND"
 "Cap_0402","Chip Capacitor 0402 (1005 metric)","C3, C4","CAPC1005L","Capacitor_0402","2","Digi-Key","311-1415-1-ND"
 "Cap_0402","Chip Capacitor 0402 (1005 metric)","C6, C16","CAPC1005L","Capacitor_0402","2","Digi-Key","311-1703-1-ND"
@@ -15,7 +16,6 @@ Comment,Description,Designator,Footprint,LibRef,Quantity,Supplier 1,Supplier Par
 "Header 6","Header, 6-Pin","I2C","HDR1X6","Header 6","1","",""
 "32K249-400L5","SMA Right Angle Jack, Up to 18 GHz, -65 to 165 degC","J2","ROS-32K249-400L5_V","32K249-400L5","1","Digi-Key","ARFX1232-ND"
 "Header 3X2","Header, 3-Pin, Dual row","J5","HDR2X3","Header 3X2","1","",""
-"Header 7","Header, 7-Pin","J6, J7","HDR1X7","Header 7","2","",""
 "Inductor0402","Inductor 27nH","L1","CAPC1005L","Inductor0402","1","Digi-Key","A103711CT-ND"
 "Inductor0402","Inductor 27nH","L2","CAPC1005L","Inductor0402","1","Digi-Key","A102559CT-ND"
 "Inductor0402","Inductor 27nH","L3","CAPC1005L","Inductor0402","1","Digi-Key","A103706CT-ND"
