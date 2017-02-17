@@ -1,59 +1,59 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\dsd\Work\GitHub\knot-hardware-pcbs\KNoT_Thing\KNoT_Thing_DevBoard\cads\KNoT_Thing_DevBoard.PcbDoc
-Date     : 16/02/2017
-Time     : 10:35:14
+Date     : 17/02/2017
+Time     : 11:44:25
 
-Processing Rule : Minimum Annular Ring (Minimum=0.2mm) (All)
-Rule Violations :0
-
-Processing Rule : Matched Net Lengths(Tolerance=0.2mm) (InDifferentialPair ('USB'))
-Rule Violations :0
-
-Processing Rule : Matched Net Lengths(Tolerance=25.4mm) (InDifferentialPair ('USB'))
-Rule Violations :0
-
-Processing Rule : Matched Net Lengths(Tolerance=25.4mm) (Disabled)(All)
-Rule Violations :0
-
-Processing Rule : Net Antennae (Tolerance=0mm) (Disabled)(All)
-Rule Violations :0
-
-Processing Rule : Silk primitive without silk layer
-Rule Violations :0
-
-Processing Rule : Silk to Silk (Clearance=0.064mm) (All),(All)
-Rule Violations :0
-
-Processing Rule : Silk To Solder Mask (Clearance=0.064mm) (All),(All)
-Rule Violations :0
-
-Processing Rule : Minimum Solder Mask Sliver (Gap=0.064mm) (All),(All)
-Rule Violations :0
-
-Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
-Rule Violations :0
-
-Processing Rule : Hole Size Constraint (Min=0.3mm) (Max=10mm) (All)
-Rule Violations :0
-
-Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
-Rule Violations :0
-
-Processing Rule : Width Constraint (Min=0.2mm) (Max=2mm) (Preferred=0.2mm) (All)
-Rule Violations :0
-
-Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
-Rule Violations :0
-
-Processing Rule : Clearance Constraint (Gap=0.2mm) (All),(All)
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
 Rule Violations :0
 
-Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Processing Rule : Clearance Constraint (Gap=0.2mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.2mm) (Max=2mm) (Preferred=0.2mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.3mm) (Max=10mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.064mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.064mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0.064mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk primitive without silk layer
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (Disabled)(All)
+Rule Violations :0
+
+Processing Rule : Matched Net Lengths(Tolerance=25.4mm) (Disabled)(All)
+Rule Violations :0
+
+Processing Rule : Matched Net Lengths(Tolerance=25.4mm) (InDifferentialPair ('USB'))
+Rule Violations :0
+
+Processing Rule : Matched Net Lengths(Tolerance=0.2mm) (InDifferentialPair ('USB'))
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=0.2mm) (All)
 Rule Violations :0
 
 
 Violations Detected : 0
-Time Elapsed        : 00:31:50
+Time Elapsed        : 00:34:48
