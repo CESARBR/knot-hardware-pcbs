@@ -18,7 +18,7 @@ This PCB is self contained and has two goals: (i) to serve as a development plat
 
 The Reference Design is composed of hardware, firmware and (eventualy) desktop/mobile sofware. They are designed to demonstrate the KNoT plarfotm used in real solutions. A Reference Design can be based on a Starter or Developmend Board adapted to be used in a specific solution.
 
-###Existing Boards
+###Available Boards
 
 ####KNoT Gateway Starter Board
 
