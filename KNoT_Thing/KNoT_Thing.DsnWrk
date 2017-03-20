@@ -4,3 +4,5 @@ Version=1.0
 ProjectPath=KNoT_Thing_lib\KNoT_Thing.LibPkg
 [Project2]
 ProjectPath=KNoT_Thing_DevBoard\KNoT_Thing_DevBoard.PrjPCB
+[Project3]
+ProjectPath=KNoT_Thing_Starter_Board\KNoT_Thing_Starter_Board.PrjPCB
