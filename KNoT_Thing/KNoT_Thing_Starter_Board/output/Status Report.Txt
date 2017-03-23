@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 10:19:44 On 23/03/2017
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Schematic Document [KNoT_Thing_Starter_Board.SchDoc]
+   Generated File[Bill of Materials-KNoT_Thing_Starter_Board.csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 10:19:46 On 23/03/2017
