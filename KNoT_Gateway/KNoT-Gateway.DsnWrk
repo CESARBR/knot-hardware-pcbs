@@ -4,3 +4,5 @@ Version=1.0
 ProjectPath=KNoT-Gateway Library\KNoT-Gateway Library.LibPkg
 [Project2]
 ProjectPath=KNoT-Gateway Starter Board\KNoT-Gateway Starter Board.PrjPCB
+[Project3]
+ProjectPath=KNoT-Gateway Mini Starter Board\KNoT-Gateway Mini Starter Board.PrjPCB
