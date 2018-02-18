@@ -1,0 +1,12 @@
+Comment,Designator,LibRef,Quantity,Supplier 1,Supplier Part Number 1
+
+"Cap 0805 0.1uF","C1","Cap_0805_0.1uF","1","Digi-Key","445-8883-1-ND"
+"Cap 0805 10uF","C2","Cap_0805_10uF","1","Digi-Key","709-1229-1-ND"
+"Female 2x8 header","J1","2x8 RPi Header","1","Digi-Key","S7076-ND"
+"2x4 Female Header","J2","nRF24L01+","1","Digi-Key","S7107-ND"
+"LED RADIAL 5MM RED","LED1","LED RADIAL 5MM RED","1","Digi-Key","160-1853-ND"
+"LED RADIAL 5MM GREEN","LED2, LED3","LED RADIAL 5MM GREEN","2","Digi-Key","160-1852-ND"
+"RES_0805","R1, R2, R3","RES_0805","3","Digi-Key","311-100ARCT-ND"
+"RES_0805","R4, R5","RES_0805","2","Digi-Key","311-4.7KARCT-ND"
+"Push Button - Long","S1","Push Button L","1","Digi-Key","P10880S-ND"
+"Push Button - Short","S2","Push Button S","1","Digi-Key","P10883S-ND"

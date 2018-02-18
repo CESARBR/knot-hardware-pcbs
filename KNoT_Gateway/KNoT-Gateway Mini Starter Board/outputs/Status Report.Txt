@@ -1,0 +1,10 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Project [KNoT-Gateway Mini Starter Board.PrjPCB]
+   Generated File[Bill of Materials-KNoT-Gateway Mini Starter Board.csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 21:54:35 On 17/02/2018

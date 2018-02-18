@@ -1,0 +1,18 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: KNoT-Gateway Mini Starter Board.PcbDoc   17/02/2018  21:54:31
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : KNoT-Gateway Mini Starter Board.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        28mil (0.7112mm)         Round          8                3.27 Inch (83.07 mm)
+T2        30mil (0.762mm)          Round          6                0.65 Inch (16.51 mm)
+T3        35.43mil (0.89992mm)     Round          24               4.26 Inch (108.22 mm)
+T4        51.18mil (1.29997mm)     Round          4                0.58 Inch (14.66 mm)
+T5        62.99mil (1.59995mm)     Round          4                0.68 Inch (17.16 mm)
+---------------------------------------------------------------------------
+Totals                                            46               9.43 Inch (239.62 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
