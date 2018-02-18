@@ -1,0 +1,14 @@
+Comment,Designator,LibRef,Quantity,Supplier 1,Supplier Part Number 1
+
+"CAPC_RADIAL_100","C1","CAPC1608L_1","1","Digi-Key","P1175-ND"
+"STATUS","D1","LED","1","Digi-Key","160-1853-ND"
+"USER","D2","LED","1","Digi-Key","160-1852-ND"
+"Header 2H","J1, J2, J4, JP1","Header 2H","4","",""
+"Header 6","J3, J5, J6","Header 6","3","",""
+"Header 4","J7","Header 4","1","",""
+"Arduino Pro Mini 5V 16MHz","MD1","Arduino Pro Mini 5V 16MHz","1","",""
+"nRF24L01+","MD2","nRF24L01+ Module","1","",""
+"Female header for FTDI module","MD3","Module_FTDI","1","",""
+"Res1","R1","Res1","1","Digi-Key","CF18JT10K0CT-ND"
+"Res1","R2, R3","Res1","2","Digi-Key","CF18JT150RCT-ND"
+"CLR_EEPROM","S1","SW-PB","1","Digi-Key","450-1804-ND"

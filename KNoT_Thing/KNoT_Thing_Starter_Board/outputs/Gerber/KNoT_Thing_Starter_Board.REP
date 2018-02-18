@@ -1,0 +1,220 @@
+*************************************************************
+FileName = KNoT_Thing_Starter_Board.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Layer
+      File : KNoT_Thing_Starter_Board.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : KNoT_Thing_Starter_Board.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : KNoT_Thing_Starter_Board.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D13
+    D24
+    D25
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : KNoT_Thing_Starter_Board.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : KNoT_Thing_Starter_Board.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : KNoT_Thing_Starter_Board.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : KNoT_Thing_Starter_Board.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : KNoT_Thing_Starter_Board.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : KNoT_Thing_Starter_Board.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D13
+    D36
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 2
+      File : KNoT_Thing_Starter_Board.GM2
+
+    Adding Layer      : Mechanical 2
+
+
+Used DCodes :
+    D11
+    D13
+    D37
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 11
+      File : KNoT_Thing_Starter_Board.GM11
+
+    Adding Layer      : Mechanical 11
+
+
+Used DCodes :
+    D13
+    D36
+    D38
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : KNoT_Thing_Starter_Board.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : KNoT_Thing_Starter_Board.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D13
+    D36
+*************************************************************
+

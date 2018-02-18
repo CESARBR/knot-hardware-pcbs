@@ -1,0 +1,6 @@
+DRC Rules Export File for PCB: C:\Users\dtvp\_VCS\knot-hardware-pcbs\KNoT_Thing\KNoT_Thing_Starter_Board\cads\KNoT_Thing_Starter_Board.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Width|RuleName=Width_Power|Scope=Board|Minimum=19.69
